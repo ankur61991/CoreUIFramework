@@ -1,0 +1,10 @@
+org\test\DataLoads\DataReader$1.class
+org\test\PageObjects\TravelHomePage.class
+org\test\DataLoads\DataReader.class
+org\test\PageComponents\MultiTrip.class
+org\test\AbstractComponents\AbstractComponent.class
+org\test\PageComponents\NavigationBar.class
+org\test\AbstractComponents\SearchFlightAvail.class
+org\test\AbstractComponents\StrategyFactory.class
+org\test\PageComponents\FooterNav.class
+org\test\PageComponents\RoundTrip.class
